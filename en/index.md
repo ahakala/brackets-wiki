@@ -1,7 +1,7 @@
 # TIES Bracket Madness
 
 ## How do I play?
- - Go to the site
+ - [Go to the site](http://brackets.ties.k12.mn.us)
  - Register a new Bracket
  - Make your picks
 
